@@ -1,2 +1,2 @@
-# geo-benchmarks
-Open benchmarks for Generative Engine Optimization (GEO)
+**⭐ Star this repo** to get notified of new quarterly benchmarks.
+
